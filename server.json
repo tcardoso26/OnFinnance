@@ -1,0 +1,212 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-05-24T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "ALMOÇO",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 500,
+      "createdAt": "2024-05-24T19:36:50.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso React",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1000,
+      "createdAt": "2024-05-25T19:36:50.505Z"
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-03T11:51:24.789Z",
+      "id": 6
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-03T11:51:25.925Z",
+      "id": 7
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-03T11:51:26.237Z",
+      "id": 8
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-03T11:51:26.382Z",
+      "id": 9
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-03T11:51:26.534Z",
+      "id": 10
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-03T11:51:26.681Z",
+      "id": 11
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-03T11:51:26.832Z",
+      "id": 12
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-03T11:51:26.982Z",
+      "id": 13
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-03T11:51:27.146Z",
+      "id": 14
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-03T11:51:33.672Z",
+      "id": 15
+    },
+    {
+      "description": "Desenvolvimento de aplicativo",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-06-03T11:51:34.802Z",
+      "id": 16
+    },
+    {
+      "description": "teste",
+      "price": 12,
+      "category": "teste teste",
+      "type": "income",
+      "createdAt": "2024-06-03T14:43:54.136Z",
+      "id": 17
+    },
+    {
+      "description": "teste",
+      "price": 121,
+      "category": "teste 02",
+      "type": "income",
+      "createdAt": "2024-06-03T15:32:48.964Z",
+      "id": 18
+    },
+    {
+      "description": "wertertg",
+      "price": 34543,
+      "category": "sdafsdfs",
+      "type": "income",
+      "createdAt": "2024-06-03T15:33:22.226Z",
+      "id": 19
+    },
+    {
+      "description": "dfdf",
+      "price": 43232,
+      "category": "curso",
+      "type": "income",
+      "createdAt": "2024-06-03T16:06:14.638Z",
+      "id": 20
+    },
+    {
+      "description": "asaa",
+      "price": 2132,
+      "category": "aaa",
+      "type": "income",
+      "createdAt": "2024-06-03T16:06:37.192Z",
+      "id": 21
+    },
+    {
+      "description": "cartão de credito",
+      "price": 4000,
+      "category": "alimentação",
+      "type": "income",
+      "createdAt": "2024-06-03T16:47:30.414Z",
+      "id": 22
+    },
+    {
+      "description": "compra tenis",
+      "price": 500,
+      "category": "nike shox",
+      "type": "income",
+      "createdAt": "2024-06-03T16:48:07.806Z",
+      "id": 23
+    },
+    {
+      "description": "pagamento aluguel",
+      "price": 1700,
+      "category": "aluguel",
+      "type": "income",
+      "createdAt": "2024-06-03T17:47:36.995Z",
+      "id": 24
+    },
+    {
+      "description": "teste",
+      "price": 3333,
+      "category": "teste teste",
+      "type": "outcome",
+      "createdAt": "2024-06-03T18:01:31.651Z",
+      "id": 25
+    },
+    {
+      "description": "compra de pastel",
+      "price": 5,
+      "category": "pastel de carne",
+      "type": "outcome",
+      "createdAt": "2024-06-03T18:13:59.316Z",
+      "id": 26
+    },
+    {
+      "description": "investimento",
+      "price": 100000,
+      "category": "ações itau",
+      "type": "income",
+      "createdAt": "2024-06-04T11:16:38.131Z",
+      "id": 27
+    },
+    {
+      "description": "teste",
+      "price": 6,
+      "category": "qw",
+      "type": "income",
+      "createdAt": "2024-06-04T11:39:34.973Z",
+      "id": 28
+    }
+  ]
+}
