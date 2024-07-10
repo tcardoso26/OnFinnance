@@ -34,13 +34,7 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
   const [transactions, setTransactions] = useState<Transaction[]>([]);
 
   const fetchTransactions = useCallback (async(query?: string) => {
-    const response = await api.get('transactions', {
-      params: {
-        _sort: 'createdAt',
-        _order: 'desc',
-        q: query,
-      },
-    })
+    const response = await api.get('entries')
 
     setTransactions(response.data)
   },[])
@@ -48,7 +42,7 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
   const createTransaction = useCallback(async (data: CreateTransactionInput) => {
     const { description, price, category, type } = data;
 
-    const response = await api.post('transactions', {
+    const response = await api.post('entries', {
       description,
       price,
       category,

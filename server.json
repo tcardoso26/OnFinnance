@@ -207,6 +207,14 @@
       "type": "income",
       "createdAt": "2024-06-04T11:39:34.973Z",
       "id": 28
+    },
+    {
+      "description": "dfdf",
+      "price": 1,
+      "category": "23412",
+      "type": "income",
+      "createdAt": "2024-06-07T13:20:31.851Z",
+      "id": 29
     }
   ]
 }
